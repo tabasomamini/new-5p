@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}body{
+    background: linear-gradient(to right,lightblue,rgb(44, 44, 240));
+}.from{
+    background: url("login-bg.png");
+   background-size: cover;
+    width: 90%;
+   margin: auto;
+    
+   margin-top: 60px;
+    height: 500px;
+    display: inline-block;
+    margin-left: 70px;
+    border-radius: 14px;
+    box-shadow: -10px 0px 0px -10px lightblue;
+    border-top:4px solid rgb(172, 227, 246);
+    border-left: 4px solid rgb(172, 227, 246);
+   
+    
+}.par{
+    font-size: 55px;
+    float: left;
+    text-align: center;
+    text-transform: uppercase;
+    width: 50%;
+    margin-top: 60px;
+    padding: auto; 
+    color: white;  
+}.s{
+    font-size: 55px;
+    float: left;
+    text-align: center;
+    text-transform: uppercase;
+    width: 50%;
+    margin-top: 60px;
+    padding: auto;
+    position: relative; 
+    bottom: 30px;
+    right: 15px;
+    color: white; 
+}.sp{
+    font-size: 55px;
+    float: left;
+    text-align: center;
+    text-transform: uppercase;
+    width: 50%;
+    margin-top: 60px;
+    padding: auto;
+    position: relative;
+    left: 35px; 
+    color: white; 
+}.line{
+    border-left: 1px solid white;
+    height: 400px;
+    position: relative;
+    left: 556px;
+    top: 37px;
+    
+}nav{
+   display: inline-block;
+}li{
+    display: inline-block;
+    position: relative;
+    bottom: 500px;
+    left: 850px;
+    padding: 20px;
+     
+}a{
+    text-decoration: none;
+    color: white;
+}form{
+    position: relative;
+    bottom: 400px;
+    left: 800px;
+}input{
+    padding: 8px;
+    width: 320px;
+}.log{
+    position: relative;
+    bottom: 20px;
+    font-weight: bold;
+    color: white;
+   
+}.em{
+    position: relative;
+    top: 20px;
+    right: 50px;
+    border-radius: 8px;
+    background:rgb(190, 185, 185);
+    border: none;
+    color: white;
+
+}.pas{
+    position: relative;
+    top: 70px;
+    right: 370px;
+    border-radius: 8px;
+    background:rgb(190, 185, 185);
+    border: none;
+    color: white;
+}.par2{
+    position: relative;
+    top: 80px;
+    left: 210px;
+    color: white;
+}.check{
+    position: relative;
+    top: 90px;
+    right: 115px;
+}.l{
+    position: relative;
+    top: 90px;
+    right: 266px;
+    color: white;
+}.btn{
+    position: relative;
+    top: 130px;
+    right: 420px;
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(114, 114, 252);
+    color: white;
+    border: none;
+    border-radius: 8px; 
+    cursor: pointer;  
+}.btn:hover{
+    background-color: rgb(138, 138, 248);
+}.par3{
+    position: relative;
+    top: 140px;
+    left: 115px;
+    color: white;
+}.fab{
+    position: relative;
+    top: 150px;
+    left: 130px;
+    padding: 8px;
+    color: white;
+}.fa-google{
+    border-right: 1px solid white;
+    position: relative;
+    
+   
+}.fa-apple{
+    border-right: 1px solid white;
+}.par4{
+    position: relative;
+    top: 160px;
+    left: 80px;
+    color: white;
+}
